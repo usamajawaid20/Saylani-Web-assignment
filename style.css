@@ -1,0 +1,227 @@
+
+body{
+    background-color: #f7f8fa;
+}
+*{
+    font-family: 'Merriweather', serif;
+}
+/* topbar style */
+.topbar{
+    background-color:#316DC3;
+   text-align: center;
+}
+.topbar,i{
+    padding: 8px;
+}
+.topbar,p{
+    color: whitesmoke;
+    font-family: "Open Sans", sans-serif;
+}
+button{
+    color: green;
+    width: 90PX;
+    height: 30px;
+    font-size: 0.7rem;
+}
+
+/* navbar style */
+.navbar-brand{
+    width: 40%;
+    margin-left: 80px;
+}
+.navbar li a{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+.navbar li{
+    margin: 5px;
+}
+.navbar{
+    background-color: #f7f8fa;
+    border-bottom: 2px solid  whitesmoke;
+    height: 70px;
+
+}
+
+.navbar ul a:hover{
+    background-color: #316dc3;
+    border: 2px solid #316DC3;
+    border-radius: 20px;
+    color: white;;
+}
+
+/* slider style */
+.Slider{
+    background-attachment: fixed;
+}
+
+/* intro style */
+marquee{
+    background-color: #316DC3;
+    color: whitesmoke;
+    text-align: center;
+    padding: 3px;
+    margin-top: 10px;
+   
+}
+
+.intro{
+    padding: 0px 100px 0px 100px;
+    text-align: center;
+    background-color: #f7f8fa;
+}
+
+.main-content h1{
+    font-family: 'Merriweather';
+    font-size: 2.3rem;
+    font-weight: bold;
+   margin-top: 20px;
+   text-align: center;
+}
+
+.main-content p{
+    color: #898d91;
+   padding: 15px;
+   font-family: "Open Sans", sans-serif;
+}
+
+
+/* Counter style */
+.counter{
+    background-color: #3156e6;
+    text-align: center;
+    padding: 30px;
+}
+.counter p{
+padding-top: 5px;
+
+}
+
+#food{
+    padding: 30px;
+    font-weight: bold;
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+}
+#family{
+    padding: 30px;
+    font-weight: bold;
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+}
+#medical{
+    padding: 30px;
+    font-weight: bold;
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+}
+#education{
+    padding: 30px;
+    font-weight: bold;
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+} 
+
+.services{
+ margin: 0px 40px 0px 40px;
+
+}
+.services p{
+    color: blue;
+    font-weight: bold;
+    line-height: 4rem;
+    
+}
+.services-heading{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  text-align: center;
+}
+.box{
+  border: 3px solid whitesmoke;
+    box-shadow: 20px 20px 10px  rgb(231, 228, 228);
+    text-align: center;
+    padding-top: 30px;
+    width: 360px; 
+    height: 185px;
+
+}
+
+.Projects{
+    padding-top: 50px;
+    margin: 0px auto;
+    background-color: whitesmoke;
+}
+.pro{
+    border: 3px solid whitesmoke;
+    background-color: white;
+     margin: 15px;
+    width: 300px;
+    height: 83px;
+text-align: center;
+}
+.pro p{
+    color: blue;
+    font-weight: bold;
+}
+
+.second{
+    width: 250px;
+    height: 180px;
+    background-color: whitesmoke;
+    color: black;
+float: right;
+}
+
+/* gallery style */
+.gallery{
+    padding-top: 30px;
+    background-color: whitesmoke;
+}
+#images img{
+    margin: 0px;
+    padding: 10px;
+}
+.footer{
+    background-color: #25272e;
+    color: white;
+    padding: 50PX 0px 50px 20px;
+   text-align: center;
+
+
+}
+.bottom p{
+  color: #5b7194  ;
+}
+.bottom i{
+    color: green;
+}
+.bottom p{
+display: inline;
+}
+.icon i{
+    text-align: left;
+    color: white  ;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 70px;
+    background-color: blue;
+    margin:2px ;
+}
+
+
+.copyright{
+    background-color:#316DC3;
+}
+.copyright p{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.top{
+  position: fixed;
+  top: 490px;
+  right: 10px;
+}
